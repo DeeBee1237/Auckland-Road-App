@@ -12,4 +12,5 @@ Please note: While it was my code that provided the functionality of this app, I
 some code to start off with (all of the GUI was provided for me, etc)
 
 If you would like to see this app working, please create a new Folder with all the non java files
-and then select that folder when you choose load.
+and then select that folder when you choose load. (I included a small ammount of data because I had trouble
+uploading the larger one)
